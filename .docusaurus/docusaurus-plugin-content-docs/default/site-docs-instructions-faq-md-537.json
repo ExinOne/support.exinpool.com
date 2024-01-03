@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Instructions/faq",
+  "id": "Instructions/faq",
+  "title": "The Faqs about migration",
+  "description": "Mixin has released an updated version of the Mixin App on December 9, 2023, with the following version numbers:",
+  "source": "@site/docs/Instructions/faq.md",
+  "sourceDirName": "Instructions",
+  "slug": "/Instructions/faq",
+  "permalink": "/docs/Instructions/faq",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "The Faqs about migration"
+  }
+}

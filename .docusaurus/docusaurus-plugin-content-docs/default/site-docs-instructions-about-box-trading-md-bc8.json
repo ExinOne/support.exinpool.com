@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Instructions/About-BOX-Trading",
+  "id": "Instructions/About-BOX-Trading",
+  "title": "Detailed Description of BOX Trading",
+  "description": "Dear users.",
+  "source": "@site/docs/Instructions/About-BOX-Trading.md",
+  "sourceDirName": "Instructions",
+  "slug": "/Instructions/About-BOX-Trading",
+  "permalink": "/docs/Instructions/About-BOX-Trading",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Detailed Description of BOX Trading"
+  }
+}

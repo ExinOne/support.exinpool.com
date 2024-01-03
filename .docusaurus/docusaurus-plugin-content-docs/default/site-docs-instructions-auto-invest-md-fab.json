@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Instructions/AutoInvest",
+  "id": "Instructions/AutoInvest",
+  "title": "How to Invest",
+  "description": "Set up an investment plan",
+  "source": "@site/docs/Instructions/AutoInvest.md",
+  "sourceDirName": "Instructions",
+  "slug": "/Instructions/AutoInvest",
+  "permalink": "/docs/Instructions/AutoInvest",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "How to Invest"
+  }
+}

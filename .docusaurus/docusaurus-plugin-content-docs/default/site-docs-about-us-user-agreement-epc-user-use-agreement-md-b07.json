@@ -1,0 +1,16 @@
+{
+  "unversionedId": "About-Us/User-Agreement/EPC-User-Use-Agreement",
+  "id": "About-Us/User-Agreement/EPC-User-Use-Agreement",
+  "title": "EPC User Use Agreement",
+  "description": "Dear User.",
+  "source": "@site/docs/About-Us/User-Agreement/EPC-User-Use-Agreement.md",
+  "sourceDirName": "About-Us/User-Agreement",
+  "slug": "/About-Us/User-Agreement/EPC-User-Use-Agreement",
+  "permalink": "/docs/About-Us/User-Agreement/EPC-User-Use-Agreement",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "EPC User Use Agreement"
+  }
+}

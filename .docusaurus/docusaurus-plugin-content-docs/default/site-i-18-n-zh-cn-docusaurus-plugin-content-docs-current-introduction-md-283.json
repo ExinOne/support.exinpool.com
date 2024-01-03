@@ -1,0 +1,22 @@
+{
+  "unversionedId": "introduction",
+  "id": "introduction",
+  "title": "ExinPool 简介",
+  "description": "ExinPool",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/introduction.md",
+  "sourceDirName": ".",
+  "slug": "/introduction",
+  "permalink": "/zh-CN/docs/introduction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ExinPool 简介",
+    "description": "ExinPool"
+  },
+  "sidebar": "docs",
+  "next": {
+    "title": "验证",
+    "permalink": "/zh-CN/docs/Verify"
+  }
+}

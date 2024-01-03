@@ -1,0 +1,16 @@
+{
+  "unversionedId": "About-Us/Pricing",
+  "id": "About-Us/Pricing",
+  "title": "ExinOne Pricing Rules",
+  "description": "Fees",
+  "source": "@site/docs/About-Us/Pricing.md",
+  "sourceDirName": "About-Us",
+  "slug": "/About-Us/Pricing",
+  "permalink": "/docs/About-Us/Pricing",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ExinOne Pricing Rules"
+  }
+}

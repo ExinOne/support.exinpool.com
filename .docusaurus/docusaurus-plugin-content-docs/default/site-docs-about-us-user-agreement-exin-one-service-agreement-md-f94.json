@@ -1,0 +1,16 @@
+{
+  "unversionedId": "About-Us/User-Agreement/ExinOne-Service-Agreement",
+  "id": "About-Us/User-Agreement/ExinOne-Service-Agreement",
+  "title": "ExinOne Service Agreement",
+  "description": "This Agreement was last amended on: October 29, 2020",
+  "source": "@site/docs/About-Us/User-Agreement/ExinOne-Service-Agreement.md",
+  "sourceDirName": "About-Us/User-Agreement",
+  "slug": "/About-Us/User-Agreement/ExinOne-Service-Agreement",
+  "permalink": "/docs/About-Us/User-Agreement/ExinOne-Service-Agreement",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ExinOne Service Agreement"
+  }
+}

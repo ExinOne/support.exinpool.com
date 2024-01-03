@@ -1,0 +1,25 @@
+{
+  "unversionedId": "FAQs",
+  "id": "FAQs",
+  "title": "常见问题",
+  "description": "关于 Mixin 的使用",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/FAQs.md",
+  "sourceDirName": ".",
+  "slug": "/FAQs",
+  "permalink": "/zh-CN/docs/FAQs",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "常见问题"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "ExinPool 简介",
+    "permalink": "/zh-CN/docs/introduction"
+  },
+  "next": {
+    "title": "支持节点",
+    "permalink": "/zh-CN/docs/nodes"
+  }
+}

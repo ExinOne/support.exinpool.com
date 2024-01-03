@@ -1,0 +1,25 @@
+{
+  "unversionedId": "nodes",
+  "id": "nodes",
+  "title": "Support Nodes",
+  "description": "The currently supported nodes are as follows.",
+  "source": "@site/docs/nodes.md",
+  "sourceDirName": ".",
+  "slug": "/nodes",
+  "permalink": "/docs/nodes",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Support Nodes"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "FAQs",
+    "permalink": "/docs/FAQs"
+  },
+  "next": {
+    "title": "Akash",
+    "permalink": "/docs/Nodes/akash"
+  }
+}

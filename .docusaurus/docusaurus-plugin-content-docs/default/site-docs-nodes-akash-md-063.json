@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Nodes/akash",
+  "id": "Nodes/akash",
+  "title": "Akash",
+  "description": "Q: How many Akash nodes does ExinPool have at the moment?",
+  "source": "@site/docs/Nodes/akash.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/akash",
+  "permalink": "/docs/Nodes/akash",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Akash"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Support Nodes",
+    "permalink": "/docs/nodes"
+  },
+  "next": {
+    "title": "Avalanche",
+    "permalink": "/docs/Nodes/avalanche"
+  }
+}

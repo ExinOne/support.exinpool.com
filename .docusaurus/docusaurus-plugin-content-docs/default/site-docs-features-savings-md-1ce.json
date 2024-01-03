@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Features/Savings",
+  "id": "Features/Savings",
+  "title": "Savings",
+  "description": "Savings is a digital currency value-added service launched by ExinOne. It is a product with low risk, stable income, and allows for flexible withdrawals.",
+  "source": "@site/docs/Features/Savings.md",
+  "sourceDirName": "Features",
+  "slug": "/Features/Savings",
+  "permalink": "/docs/Features/Savings",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Savings"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Trading Account",
+    "permalink": "/docs/Features/TradingAccount"
+  },
+  "next": {
+    "title": "Affiliate Commission",
+    "permalink": "/docs/Features/Affiliate"
+  }
+}

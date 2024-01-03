@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Instructions/about923",
+  "id": "Instructions/about923",
+  "title": "2023-9-23 事件及影响",
+  "description": "这是一篇介绍 2023 年 9 月 23 日事件的文章，会引用比较多的内容，引用部分会用引号展示，相关信息来源于 Mixin 产品动态 7000101914 和 Mixin 创始人的小迷圈 7000100118",
+  "source": "@site/docs/Instructions/about923.md",
+  "sourceDirName": "Instructions",
+  "slug": "/Instructions/about923",
+  "permalink": "/docs/Instructions/about923",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "2023-9-23 事件及影响"
+  }
+}

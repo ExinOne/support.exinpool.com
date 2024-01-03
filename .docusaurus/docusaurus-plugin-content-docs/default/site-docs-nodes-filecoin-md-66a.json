@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Nodes/filecoin",
+  "id": "Nodes/filecoin",
+  "title": "Filecoin",
+  "description": "Q: How many Filecoin nodes does ExinPool have at the moment?",
+  "source": "@site/docs/Nodes/filecoin.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/filecoin",
+  "permalink": "/docs/Nodes/filecoin",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Filecoin"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Ethereum",
+    "permalink": "/docs/Nodes/ethereum"
+  },
+  "next": {
+    "title": "Horizen",
+    "permalink": "/docs/Nodes/horizen"
+  }
+}

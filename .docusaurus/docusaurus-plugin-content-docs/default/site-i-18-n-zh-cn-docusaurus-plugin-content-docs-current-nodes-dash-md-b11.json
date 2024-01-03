@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Nodes/dash",
+  "id": "Nodes/dash",
+  "title": "Dash",
+  "description": "Q：ExinPool 目前有几个 Dash 节点？",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/dash.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/dash",
+  "permalink": "/zh-CN/docs/Nodes/dash",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Dash"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Cosmos",
+    "permalink": "/zh-CN/docs/Nodes/cosmos"
+  },
+  "next": {
+    "title": "Ethereum",
+    "permalink": "/zh-CN/docs/Nodes/ethereum"
+  }
+}

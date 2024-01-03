@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Features/One-Click-to-Light-Up-Icons",
+  "id": "Features/One-Click-to-Light-Up-Icons",
+  "title": "One Click to Light Up Icons",
+  "description": "ExinOne launched the [One-Click Icon Lighting] campaign with the following rules.",
+  "source": "@site/docs/Features/One-Click-to-Light-Up-Icons.md",
+  "sourceDirName": "Features",
+  "slug": "/Features/One-Click-to-Light-Up-Icons",
+  "permalink": "/docs/Features/One-Click-to-Light-Up-Icons",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "One Click to Light Up Icons"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Loans",
+    "permalink": "/docs/Features/Loans"
+  },
+  "next": {
+    "title": "Auto Invest",
+    "permalink": "/docs/Features/AutoInvest"
+  }
+}

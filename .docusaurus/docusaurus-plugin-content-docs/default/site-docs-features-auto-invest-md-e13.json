@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Features/AutoInvest",
+  "id": "Features/AutoInvest",
+  "title": "Auto Invest",
+  "description": "Q: What is \"AutoInvesting\"?",
+  "source": "@site/docs/Features/AutoInvest.md",
+  "sourceDirName": "Features",
+  "slug": "/Features/AutoInvest",
+  "permalink": "/docs/Features/AutoInvest",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Auto Invest"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "One Click to Light Up Icons",
+    "permalink": "/docs/Features/One-Click-to-Light-Up-Icons"
+  },
+  "next": {
+    "title": "Small Amount Withdraw",
+    "permalink": "/docs/Features/SmallAmountWithdraw"
+  }
+}

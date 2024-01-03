@@ -1,0 +1,590 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "下一个",
+          "banner": null,
+          "badge": false,
+          "className": "docs-version-current",
+          "path": "/zh-CN/docs",
+          "tagsPath": "/zh-CN/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/mac/code/exin/support/Pool/support.exinpool.com/sidebar.docs.js",
+          "contentPath": "/Users/mac/code/exin/support/Pool/support.exinpool.com/docs",
+          "contentPathLocalized": "/Users/mac/code/exin/support/Pool/support.exinpool.com/i18n/zh-CN/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "introduction",
+              "id": "introduction",
+              "title": "ExinPool 简介",
+              "description": "ExinPool",
+              "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/introduction.md",
+              "sourceDirName": ".",
+              "slug": "/introduction",
+              "permalink": "/zh-CN/docs/introduction",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "ExinPool 简介",
+                "description": "ExinPool"
+              },
+              "sidebar": "docs",
+              "next": {
+                "title": "验证",
+                "permalink": "/zh-CN/docs/Verify"
+              }
+            },
+            {
+              "unversionedId": "nodes",
+              "id": "nodes",
+              "title": "支持节点",
+              "description": "目前支持的节点如下：",
+              "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/nodes.md",
+              "sourceDirName": ".",
+              "slug": "/nodes",
+              "permalink": "/zh-CN/docs/nodes",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "支持节点"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "验证",
+                "permalink": "/zh-CN/docs/Verify"
+              },
+              "next": {
+                "title": "Akash",
+                "permalink": "/zh-CN/docs/Nodes/akash"
+              }
+            },
+            {
+              "unversionedId": "Nodes/akash",
+              "id": "Nodes/akash",
+              "title": "Akash",
+              "description": "Q：ExinPool 目前有几个 Akash 节点？",
+              "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/akash.md",
+              "sourceDirName": "Nodes",
+              "slug": "/Nodes/akash",
+              "permalink": "/zh-CN/docs/Nodes/akash",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Akash"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "支持节点",
+                "permalink": "/zh-CN/docs/nodes"
+              },
+              "next": {
+                "title": "Avalanche",
+                "permalink": "/zh-CN/docs/Nodes/avalanche"
+              }
+            },
+            {
+              "unversionedId": "Nodes/avalanche",
+              "id": "Nodes/avalanche",
+              "title": "Avalanche",
+              "description": "Q：ExinPool 目前有几个 Avalanche 节点？",
+              "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/avalanche.md",
+              "sourceDirName": "Nodes",
+              "slug": "/Nodes/avalanche",
+              "permalink": "/zh-CN/docs/Nodes/avalanche",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Avalanche"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Akash",
+                "permalink": "/zh-CN/docs/Nodes/akash"
+              },
+              "next": {
+                "title": "Axie Infinity",
+                "permalink": "/zh-CN/docs/Nodes/axie"
+              }
+            },
+            {
+              "unversionedId": "Nodes/axie",
+              "id": "Nodes/axie",
+              "title": "Axie Infinity",
+              "description": "Q：ExinPool 目前有几个 Axie Infinity 节点？",
+              "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/axie.md",
+              "sourceDirName": "Nodes",
+              "slug": "/Nodes/axie",
+              "permalink": "/zh-CN/docs/Nodes/axie",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Axie Infinity"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Avalanche",
+                "permalink": "/zh-CN/docs/Nodes/avalanche"
+              },
+              "next": {
+                "title": "Cosmos",
+                "permalink": "/zh-CN/docs/Nodes/cosmos"
+              }
+            },
+            {
+              "unversionedId": "Nodes/cosmos",
+              "id": "Nodes/cosmos",
+              "title": "Cosmos",
+              "description": "Q：ExinPool 目前有几个 Cosmos 节点？",
+              "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/cosmos.md",
+              "sourceDirName": "Nodes",
+              "slug": "/Nodes/cosmos",
+              "permalink": "/zh-CN/docs/Nodes/cosmos",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Cosmos"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Axie Infinity",
+                "permalink": "/zh-CN/docs/Nodes/axie"
+              },
+              "next": {
+                "title": "Dash",
+                "permalink": "/zh-CN/docs/Nodes/dash"
+              }
+            },
+            {
+              "unversionedId": "Nodes/dash",
+              "id": "Nodes/dash",
+              "title": "Dash",
+              "description": "Q：ExinPool 目前有几个 Dash 节点？",
+              "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/dash.md",
+              "sourceDirName": "Nodes",
+              "slug": "/Nodes/dash",
+              "permalink": "/zh-CN/docs/Nodes/dash",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Dash"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Cosmos",
+                "permalink": "/zh-CN/docs/Nodes/cosmos"
+              },
+              "next": {
+                "title": "Ethereum",
+                "permalink": "/zh-CN/docs/Nodes/ethereum"
+              }
+            },
+            {
+              "unversionedId": "Nodes/ethereum",
+              "id": "Nodes/ethereum",
+              "title": "Ethereum",
+              "description": "Q：ExinPool 目前支持哪种 Ethereum 节点？",
+              "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/ethereum.md",
+              "sourceDirName": "Nodes",
+              "slug": "/Nodes/ethereum",
+              "permalink": "/zh-CN/docs/Nodes/ethereum",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Ethereum"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Dash",
+                "permalink": "/zh-CN/docs/Nodes/dash"
+              },
+              "next": {
+                "title": "Filecoin",
+                "permalink": "/zh-CN/docs/Nodes/filecoin"
+              }
+            },
+            {
+              "unversionedId": "Nodes/filecoin",
+              "id": "Nodes/filecoin",
+              "title": "Filecoin",
+              "description": "Q：ExinPool 目前有几个 Filecoin 节点？",
+              "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/filecoin.md",
+              "sourceDirName": "Nodes",
+              "slug": "/Nodes/filecoin",
+              "permalink": "/zh-CN/docs/Nodes/filecoin",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Filecoin"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Ethereum",
+                "permalink": "/zh-CN/docs/Nodes/ethereum"
+              },
+              "next": {
+                "title": "Horizen",
+                "permalink": "/zh-CN/docs/Nodes/horizen"
+              }
+            },
+            {
+              "unversionedId": "Nodes/horizen",
+              "id": "Nodes/horizen",
+              "title": "Horizen",
+              "description": "Q：ExinPool 目前支持哪些类型的 ZEN 节点？",
+              "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/horizen.md",
+              "sourceDirName": "Nodes",
+              "slug": "/Nodes/horizen",
+              "permalink": "/zh-CN/docs/Nodes/horizen",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Horizen"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Filecoin",
+                "permalink": "/zh-CN/docs/Nodes/filecoin"
+              },
+              "next": {
+                "title": "Matic",
+                "permalink": "/zh-CN/docs/Nodes/matic"
+              }
+            },
+            {
+              "unversionedId": "Nodes/matic",
+              "id": "Nodes/matic",
+              "title": "Matic",
+              "description": "Q：ExinPool 目前有几个 Matic 节点？",
+              "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/matic.md",
+              "sourceDirName": "Nodes",
+              "slug": "/Nodes/matic",
+              "permalink": "/zh-CN/docs/Nodes/matic",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Matic"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Horizen",
+                "permalink": "/zh-CN/docs/Nodes/horizen"
+              },
+              "next": {
+                "title": "Mixin Network",
+                "permalink": "/zh-CN/docs/Nodes/mixin"
+              }
+            },
+            {
+              "unversionedId": "Nodes/mixin",
+              "id": "Nodes/mixin",
+              "title": "Mixin Network",
+              "description": "Q：ExinPool 目前有几个 Mixin 节点？",
+              "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/mixin.md",
+              "sourceDirName": "Nodes",
+              "slug": "/Nodes/mixin",
+              "permalink": "/zh-CN/docs/Nodes/mixin",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Mixin Network"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Matic",
+                "permalink": "/zh-CN/docs/Nodes/matic"
+              },
+              "next": {
+                "title": "NEAR Protocol",
+                "permalink": "/zh-CN/docs/Nodes/near"
+              }
+            },
+            {
+              "unversionedId": "Nodes/near",
+              "id": "Nodes/near",
+              "title": "NEAR Protocol",
+              "description": "Q：ExinPool 目前有几个 NEAR Protocol 节点？",
+              "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/near.md",
+              "sourceDirName": "Nodes",
+              "slug": "/Nodes/near",
+              "permalink": "/zh-CN/docs/Nodes/near",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "NEAR Protocol"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Mixin Network",
+                "permalink": "/zh-CN/docs/Nodes/mixin"
+              },
+              "next": {
+                "title": "Nem",
+                "permalink": "/zh-CN/docs/Nodes/nem"
+              }
+            },
+            {
+              "unversionedId": "Nodes/nem",
+              "id": "Nodes/nem",
+              "title": "Nem",
+              "description": "Q：ExinPool 目前有几个 Nem 节点？",
+              "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/nem.md",
+              "sourceDirName": "Nodes",
+              "slug": "/Nodes/nem",
+              "permalink": "/zh-CN/docs/Nodes/nem",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Nem"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "NEAR Protocol",
+                "permalink": "/zh-CN/docs/Nodes/near"
+              },
+              "next": {
+                "title": "Polkadot",
+                "permalink": "/zh-CN/docs/Nodes/polkadot"
+              }
+            },
+            {
+              "unversionedId": "Nodes/polkadot",
+              "id": "Nodes/polkadot",
+              "title": "Polkadot",
+              "description": "Q：ExinPool 目前有几个 Polkadot 节点？",
+              "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/polkadot.md",
+              "sourceDirName": "Nodes",
+              "slug": "/Nodes/polkadot",
+              "permalink": "/zh-CN/docs/Nodes/polkadot",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Polkadot"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Nem",
+                "permalink": "/zh-CN/docs/Nodes/nem"
+              },
+              "next": {
+                "title": "Solana",
+                "permalink": "/zh-CN/docs/Nodes/solana"
+              }
+            },
+            {
+              "unversionedId": "Nodes/solana",
+              "id": "Nodes/solana",
+              "title": "Solana",
+              "description": "Q：ExinPool 目前有几个 Solana 节点？",
+              "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/solana.md",
+              "sourceDirName": "Nodes",
+              "slug": "/Nodes/solana",
+              "permalink": "/zh-CN/docs/Nodes/solana",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Solana"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Polkadot",
+                "permalink": "/zh-CN/docs/Nodes/polkadot"
+              },
+              "next": {
+                "title": "Tron",
+                "permalink": "/zh-CN/docs/Nodes/tron"
+              }
+            },
+            {
+              "unversionedId": "Nodes/tron",
+              "id": "Nodes/tron",
+              "title": "Tron",
+              "description": "Q：ExinPool 目前有几个 Tron 节点？",
+              "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/tron.md",
+              "sourceDirName": "Nodes",
+              "slug": "/Nodes/tron",
+              "permalink": "/zh-CN/docs/Nodes/tron",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Tron"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Solana",
+                "permalink": "/zh-CN/docs/Nodes/solana"
+              }
+            },
+            {
+              "unversionedId": "Verify",
+              "id": "Verify",
+              "title": "验证",
+              "description": "ExinPool 本着「公开透明」的原则，在本页面展示节点 Staking 的地址（仅链上）。Don't Trust, Verify.",
+              "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Verify.md",
+              "sourceDirName": ".",
+              "slug": "/Verify",
+              "permalink": "/zh-CN/docs/Verify",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "验证"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "ExinPool 简介",
+                "permalink": "/zh-CN/docs/introduction"
+              },
+              "next": {
+                "title": "支持节点",
+                "permalink": "/zh-CN/docs/nodes"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "docs": [
+              {
+                "type": "doc",
+                "id": "introduction"
+              },
+              {
+                "type": "doc",
+                "id": "Verify"
+              },
+              {
+                "type": "doc",
+                "id": "nodes"
+              },
+              {
+                "type": "category",
+                "label": "Nodes",
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Nodes/akash"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Nodes/avalanche"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Nodes/axie"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Nodes/cosmos"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Nodes/dash"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Nodes/ethereum"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Nodes/filecoin"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Nodes/horizen"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Nodes/matic"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Nodes/mixin"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Nodes/near"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Nodes/nem"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Nodes/polkadot"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Nodes/solana"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Nodes/tron"
+                  }
+                ],
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/zh-CN/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/zh-CN/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/zh-CN/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      },
+      {
+        "type": "jsx",
+        "permalink": "/zh-CN/showcase/",
+        "source": "@site/src/pages/showcase/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-plugin-sass": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

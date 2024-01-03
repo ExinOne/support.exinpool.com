@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Features/Affiliate",
+  "id": "Features/Affiliate",
+  "title": "Affiliate Commission",
+  "description": "ExinOne provides you with a way to earn income without trading:",
+  "source": "@site/docs/Features/Affiliate.md",
+  "sourceDirName": "Features",
+  "slug": "/Features/Affiliate",
+  "permalink": "/docs/Features/Affiliate",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Affiliate Commission"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Savings",
+    "permalink": "/docs/Features/Savings"
+  },
+  "next": {
+    "title": "Introduction to EPC",
+    "permalink": "/docs/Features/EPC"
+  }
+}

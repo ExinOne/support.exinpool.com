@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Instructions/TradingModel",
+  "id": "Instructions/TradingModel",
+  "title": "ExinOne Trading Model",
+  "description": "ExinOne is the trading tool you've come to know within Mixin, offering you the security, privacy and convenience of trading tokens that are live on all major exchanges.",
+  "source": "@site/docs/Instructions/TradingModel.md",
+  "sourceDirName": "Instructions",
+  "slug": "/Instructions/TradingModel",
+  "permalink": "/docs/Instructions/TradingModel",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ExinOne Trading Model"
+  }
+}

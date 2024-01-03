@@ -1,0 +1,16 @@
+{
+  "unversionedId": "About-Us/User-Agreement/ExinOne-Privacy-Agreement",
+  "id": "About-Us/User-Agreement/ExinOne-Privacy-Agreement",
+  "title": "ExinOne Privacy Agreement",
+  "description": "EXINONE CO.,LIMITED is a company incorporated under the laws of the Republic of Seychelles (\"ExinOne\" or \"we\"). This privacy policy (\"Terms\") is signed by you, the user, and EXINONE CO.,LIMITED. This Privacy Statement explains how ExinOne collects, uses, shares and protects user information obtained through the Products. When collecting personal information specified by the user, we do so for legitimate legal and related specific needs. Users have the right to decide whether to provide non-essential information. The absence of necessary information may result in your inability to use certain privileges. By using the ExinOne platform and its services, you agree to all of the terms and conditions set forth herein. We will continue to adjust and improve this Privacy Policy in response to changes in the law and in the way personal data is collected and used. Changes will be posted on our website, and if your information is used for purposes other than those described herein, we will notify you in advance and ask for your consent. In accordance with the EEA (European Economic Area) regulations on the processing of personal information, elements of the General Data Protection Regulation (GDPR) have been added to the latest Privacy Policy.",
+  "source": "@site/docs/About-Us/User-Agreement/ExinOne-Privacy-Agreement.md",
+  "sourceDirName": "About-Us/User-Agreement",
+  "slug": "/About-Us/User-Agreement/ExinOne-Privacy-Agreement",
+  "permalink": "/docs/About-Us/User-Agreement/ExinOne-Privacy-Agreement",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "ExinOne Privacy Agreement"
+  }
+}

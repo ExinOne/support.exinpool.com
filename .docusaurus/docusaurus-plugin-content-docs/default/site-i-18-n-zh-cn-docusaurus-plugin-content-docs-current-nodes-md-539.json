@@ -1,0 +1,25 @@
+{
+  "unversionedId": "nodes",
+  "id": "nodes",
+  "title": "支持节点",
+  "description": "目前支持的节点如下：",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/nodes.md",
+  "sourceDirName": ".",
+  "slug": "/nodes",
+  "permalink": "/zh-CN/docs/nodes",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "支持节点"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "验证",
+    "permalink": "/zh-CN/docs/Verify"
+  },
+  "next": {
+    "title": "Akash",
+    "permalink": "/zh-CN/docs/Nodes/akash"
+  }
+}

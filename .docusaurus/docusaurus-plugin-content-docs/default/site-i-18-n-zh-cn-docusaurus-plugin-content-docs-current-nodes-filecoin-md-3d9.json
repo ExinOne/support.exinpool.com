@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Nodes/filecoin",
+  "id": "Nodes/filecoin",
+  "title": "Filecoin",
+  "description": "Q：ExinPool 目前有几个 Filecoin 节点？",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/filecoin.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/filecoin",
+  "permalink": "/zh-CN/docs/Nodes/filecoin",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Filecoin"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Ethereum",
+    "permalink": "/zh-CN/docs/Nodes/ethereum"
+  },
+  "next": {
+    "title": "Horizen",
+    "permalink": "/zh-CN/docs/Nodes/horizen"
+  }
+}

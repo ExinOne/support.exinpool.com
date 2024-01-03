@@ -1,0 +1,239 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "下一个",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "docs": [
+      {
+        "type": "link",
+        "label": "ExinPool 简介",
+        "href": "/zh-CN/docs/introduction",
+        "docId": "introduction"
+      },
+      {
+        "type": "link",
+        "label": "验证",
+        "href": "/zh-CN/docs/Verify",
+        "docId": "Verify"
+      },
+      {
+        "type": "link",
+        "label": "支持节点",
+        "href": "/zh-CN/docs/nodes",
+        "docId": "nodes"
+      },
+      {
+        "type": "category",
+        "label": "Nodes",
+        "collapsed": false,
+        "items": [
+          {
+            "type": "link",
+            "label": "Akash",
+            "href": "/zh-CN/docs/Nodes/akash",
+            "docId": "Nodes/akash"
+          },
+          {
+            "type": "link",
+            "label": "Avalanche",
+            "href": "/zh-CN/docs/Nodes/avalanche",
+            "docId": "Nodes/avalanche"
+          },
+          {
+            "type": "link",
+            "label": "Axie Infinity",
+            "href": "/zh-CN/docs/Nodes/axie",
+            "docId": "Nodes/axie"
+          },
+          {
+            "type": "link",
+            "label": "Cosmos",
+            "href": "/zh-CN/docs/Nodes/cosmos",
+            "docId": "Nodes/cosmos"
+          },
+          {
+            "type": "link",
+            "label": "Dash",
+            "href": "/zh-CN/docs/Nodes/dash",
+            "docId": "Nodes/dash"
+          },
+          {
+            "type": "link",
+            "label": "Ethereum",
+            "href": "/zh-CN/docs/Nodes/ethereum",
+            "docId": "Nodes/ethereum"
+          },
+          {
+            "type": "link",
+            "label": "Filecoin",
+            "href": "/zh-CN/docs/Nodes/filecoin",
+            "docId": "Nodes/filecoin"
+          },
+          {
+            "type": "link",
+            "label": "Horizen",
+            "href": "/zh-CN/docs/Nodes/horizen",
+            "docId": "Nodes/horizen"
+          },
+          {
+            "type": "link",
+            "label": "Matic",
+            "href": "/zh-CN/docs/Nodes/matic",
+            "docId": "Nodes/matic"
+          },
+          {
+            "type": "link",
+            "label": "Mixin Network",
+            "href": "/zh-CN/docs/Nodes/mixin",
+            "docId": "Nodes/mixin"
+          },
+          {
+            "type": "link",
+            "label": "NEAR Protocol",
+            "href": "/zh-CN/docs/Nodes/near",
+            "docId": "Nodes/near"
+          },
+          {
+            "type": "link",
+            "label": "Nem",
+            "href": "/zh-CN/docs/Nodes/nem",
+            "docId": "Nodes/nem"
+          },
+          {
+            "type": "link",
+            "label": "Polkadot",
+            "href": "/zh-CN/docs/Nodes/polkadot",
+            "docId": "Nodes/polkadot"
+          },
+          {
+            "type": "link",
+            "label": "Solana",
+            "href": "/zh-CN/docs/Nodes/solana",
+            "docId": "Nodes/solana"
+          },
+          {
+            "type": "link",
+            "label": "Tron",
+            "href": "/zh-CN/docs/Nodes/tron",
+            "docId": "Nodes/tron"
+          }
+        ],
+        "collapsible": true
+      }
+    ]
+  },
+  "docs": {
+    "introduction": {
+      "id": "introduction",
+      "title": "ExinPool 简介",
+      "description": "ExinPool",
+      "sidebar": "docs"
+    },
+    "nodes": {
+      "id": "nodes",
+      "title": "支持节点",
+      "description": "目前支持的节点如下：",
+      "sidebar": "docs"
+    },
+    "Nodes/akash": {
+      "id": "Nodes/akash",
+      "title": "Akash",
+      "description": "Q：ExinPool 目前有几个 Akash 节点？",
+      "sidebar": "docs"
+    },
+    "Nodes/avalanche": {
+      "id": "Nodes/avalanche",
+      "title": "Avalanche",
+      "description": "Q：ExinPool 目前有几个 Avalanche 节点？",
+      "sidebar": "docs"
+    },
+    "Nodes/axie": {
+      "id": "Nodes/axie",
+      "title": "Axie Infinity",
+      "description": "Q：ExinPool 目前有几个 Axie Infinity 节点？",
+      "sidebar": "docs"
+    },
+    "Nodes/cosmos": {
+      "id": "Nodes/cosmos",
+      "title": "Cosmos",
+      "description": "Q：ExinPool 目前有几个 Cosmos 节点？",
+      "sidebar": "docs"
+    },
+    "Nodes/dash": {
+      "id": "Nodes/dash",
+      "title": "Dash",
+      "description": "Q：ExinPool 目前有几个 Dash 节点？",
+      "sidebar": "docs"
+    },
+    "Nodes/ethereum": {
+      "id": "Nodes/ethereum",
+      "title": "Ethereum",
+      "description": "Q：ExinPool 目前支持哪种 Ethereum 节点？",
+      "sidebar": "docs"
+    },
+    "Nodes/filecoin": {
+      "id": "Nodes/filecoin",
+      "title": "Filecoin",
+      "description": "Q：ExinPool 目前有几个 Filecoin 节点？",
+      "sidebar": "docs"
+    },
+    "Nodes/horizen": {
+      "id": "Nodes/horizen",
+      "title": "Horizen",
+      "description": "Q：ExinPool 目前支持哪些类型的 ZEN 节点？",
+      "sidebar": "docs"
+    },
+    "Nodes/matic": {
+      "id": "Nodes/matic",
+      "title": "Matic",
+      "description": "Q：ExinPool 目前有几个 Matic 节点？",
+      "sidebar": "docs"
+    },
+    "Nodes/mixin": {
+      "id": "Nodes/mixin",
+      "title": "Mixin Network",
+      "description": "Q：ExinPool 目前有几个 Mixin 节点？",
+      "sidebar": "docs"
+    },
+    "Nodes/near": {
+      "id": "Nodes/near",
+      "title": "NEAR Protocol",
+      "description": "Q：ExinPool 目前有几个 NEAR Protocol 节点？",
+      "sidebar": "docs"
+    },
+    "Nodes/nem": {
+      "id": "Nodes/nem",
+      "title": "Nem",
+      "description": "Q：ExinPool 目前有几个 Nem 节点？",
+      "sidebar": "docs"
+    },
+    "Nodes/polkadot": {
+      "id": "Nodes/polkadot",
+      "title": "Polkadot",
+      "description": "Q：ExinPool 目前有几个 Polkadot 节点？",
+      "sidebar": "docs"
+    },
+    "Nodes/solana": {
+      "id": "Nodes/solana",
+      "title": "Solana",
+      "description": "Q：ExinPool 目前有几个 Solana 节点？",
+      "sidebar": "docs"
+    },
+    "Nodes/tron": {
+      "id": "Nodes/tron",
+      "title": "Tron",
+      "description": "Q：ExinPool 目前有几个 Tron 节点？",
+      "sidebar": "docs"
+    },
+    "Verify": {
+      "id": "Verify",
+      "title": "验证",
+      "description": "ExinPool 本着「公开透明」的原则，在本页面展示节点 Staking 的地址（仅链上）。Don't Trust, Verify.",
+      "sidebar": "docs"
+    }
+  }
+}
