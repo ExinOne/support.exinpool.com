@@ -1,9 +1,9 @@
 {
   "features.secure": {
-    "message": "Markets"
+    "message": "ExinPool"
   },
   "features.secure.text": {
-    "message": " - Support for viewing cryptocurrency market quotes"
+    "message": " is a one-stop liquidity solution for users in the Mixin ecosystem. Currently, it supports the following public chains: Mixin Network (XIN), Ethereum (ETH), Horizen (ZEN), Avalanche (AVAX), Axie Infinity (AXS), Solana (SOL), NEAR Protocol (NEAR), Cosmos (ATOM), Polkadot (DOT), Tron (TRX), Akash (AKT), and Polygon (MATIC)."
   },
   "features.fast": {
     "message": "Trading"

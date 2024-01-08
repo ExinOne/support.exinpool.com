@@ -14,16 +14,21 @@ function HomepageHeader() {
     <header className={clsx('hero', styles.heroBanner)}>
       <div className={clsx("container", styles.container)}>
         <div className={clsx("text-part", styles.left)}>
-          <h1 className={clsx("hero__title", styles.title)}> ExinOne is the one-stop cryptocurrency financial service platform. </h1>
+          <h1 className={clsx("hero__title", styles.title)}> ExinPool is a staking platform. </h1>
           <ul className={clsx("hero__subtitle", styles.subtitle)}>
-            <li className={styles.subtitle_li}>
-              <span>🛡️ </span>
+          {/* <span>🛡️ </span> */}
               <strong>
                 <Translate>features.secure</Translate>
               </strong>
               <Translate>features.secure.text</Translate>
-            </li>
-            <li className={styles.subtitle_li}>
+            {/* <li className={styles.subtitle_li}> */}
+              {/* <span>🛡️ </span>
+              <strong>
+                <Translate>features.secure</Translate>
+              </strong>
+              <Translate>features.secure.text</Translate>
+            </li> */}
+            {/* <li className={styles.subtitle_li}>
               <span>⚡️ </span>
               <strong>
                 <Translate>features.fast</Translate>
@@ -50,7 +55,7 @@ function HomepageHeader() {
                 <Translate>features.privacy</Translate>
               </strong>
               <Translate>features.privacy.text</Translate>
-            </li>
+            </li> */}
           </ul>
           <div className={styles.buttons}>
             <Link

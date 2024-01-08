@@ -1,6 +1,6 @@
 {
   "link.title.Community": {
-    "message": "ExinOne",
+    "message": "ExinPool",
     "description": "The title of the footer links column with title=Community in the footer"
   },
   "link.title.More": {
@@ -24,7 +24,7 @@
     "description": "ExinOne developers dashboard"
   },
   "copyright": {
-    "message": "Copyright © 2023 ExinOne",
+    "message": "Copyright © 2024 ExinPool",
     "description": "The footer copyright"
   }
 }

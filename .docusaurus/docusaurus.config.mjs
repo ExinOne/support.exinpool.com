@@ -7,7 +7,7 @@ export default {
   "title": "ExinPool Supports",
   "tagline": "ExinPool User manual Documents",
   "url": "https://support.exinone.com",
-  "baseUrl": "/zh-CN/",
+  "baseUrl": "/",
   "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "images/favicon.ico",
@@ -34,7 +34,7 @@ export default {
   },
   "themeConfig": {
     "navbar": {
-      "title": "ExinPool 帮助文档",
+      "title": "ExinOne Supports",
       "logo": {
         "alt": "ExinPool Support",
         "src": "images/logo.png"
@@ -42,7 +42,7 @@ export default {
       "items": [
         {
           "to": "/docs/introduction",
-          "label": "文档",
+          "label": "Docs",
           "position": "left"
         },
         {
@@ -72,7 +72,7 @@ export default {
           ]
         },
         {
-          "title": "更多",
+          "title": "More",
           "items": [
             {
               "label": "Mixin Network",
@@ -85,7 +85,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2023 ExinOne"
+      "copyright": "Copyright © 2023 ExinPool"
     },
     "prism": {
       "theme": {
@@ -317,13 +317,13 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/Users/mac/code/exin/support/Pool/support.exinpool.com/sidebar.docs.js",
+          "sidebarPath": "/Users/mac/code/exin/Support/Pool/support.exinpool.com/sidebar.docs.js",
           "path": "docs",
           "routeBasePath": "/docs",
           "editLocalizedFiles": true
         },
         "theme": {
-          "customCss": "/Users/mac/code/exin/support/Pool/support.exinpool.com/src/css/custom.scss"
+          "customCss": "/Users/mac/code/exin/Support/Pool/support.exinpool.com/src/css/custom.scss"
         },
         "sitemap": {
           "changefreq": "weekly",

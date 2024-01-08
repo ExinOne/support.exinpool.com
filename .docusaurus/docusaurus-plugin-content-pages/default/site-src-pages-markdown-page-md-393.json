@@ -1,6 +1,6 @@
 {
   "type": "mdx",
-  "permalink": "/zh-CN/markdown-page",
+  "permalink": "/markdown-page",
   "source": "@site/src/pages/markdown-page.md",
   "title": "Markdown page example",
   "frontMatter": {

@@ -2,7 +2,7 @@
   "unversionedId": "introduction",
   "id": "introduction",
   "title": "Introduction",
-  "description": "ExinOne is the one-stop cryptocurrency financial service platform powered by Exin.",
+  "description": "ExinPool",
   "source": "@site/docs/introduction.md",
   "sourceDirName": ".",
   "slug": "/introduction",
@@ -12,11 +12,11 @@
   "version": "current",
   "frontMatter": {
     "title": "Introduction",
-    "description": "ExinOne is the one-stop cryptocurrency financial service platform powered by Exin."
+    "description": "ExinPool"
   },
   "sidebar": "docs",
   "next": {
-    "title": "FAQs",
-    "permalink": "/docs/FAQs"
+    "title": "Verify",
+    "permalink": "/docs/Verify"
   }
 }

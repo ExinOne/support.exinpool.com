@@ -192,10 +192,10 @@
     "description": "The ARIA label and placeholder for search button"
   },
   "features.secure": {
-    "message": "行情"
+    "message": "ExinPool"
   },
   "features.secure.text": {
-    "message": " - 支持查看加密货币市场行情"
+    "message": " 是一个在 Mixin 生态为用户提供流动性的一站式解决方案。目前支持的公链有 Mixin Network（XIN）、Ethereum（ETH）、Horizen（ZEN）、Avalanche（AVAX）、Axie Infinity（AXS）、Solana（SOL）、NEAR Protocol（NEAR）、Cosmos（ATOM）、Polkadot（DOT）、Tron（TRX）、Akash（AKT）、Polygon（MATIC）。"
   },
   "features.fast": {
     "message": "交易"

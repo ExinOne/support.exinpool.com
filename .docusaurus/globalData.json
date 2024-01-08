@@ -1,103 +1,103 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/zh-CN/docs",
+      "path": "/docs",
       "versions": [
         {
           "name": "current",
-          "label": "下一个",
+          "label": "Next",
           "isLast": true,
-          "path": "/zh-CN/docs",
+          "path": "/docs",
           "mainDocId": "introduction",
           "docs": [
             {
               "id": "introduction",
-              "path": "/zh-CN/docs/introduction",
+              "path": "/docs/introduction",
               "sidebar": "docs"
             },
             {
               "id": "nodes",
-              "path": "/zh-CN/docs/nodes",
+              "path": "/docs/nodes",
               "sidebar": "docs"
             },
             {
               "id": "Nodes/akash",
-              "path": "/zh-CN/docs/Nodes/akash",
+              "path": "/docs/Nodes/akash",
               "sidebar": "docs"
             },
             {
               "id": "Nodes/avalanche",
-              "path": "/zh-CN/docs/Nodes/avalanche",
+              "path": "/docs/Nodes/avalanche",
               "sidebar": "docs"
             },
             {
               "id": "Nodes/axie",
-              "path": "/zh-CN/docs/Nodes/axie",
+              "path": "/docs/Nodes/axie",
               "sidebar": "docs"
             },
             {
               "id": "Nodes/cosmos",
-              "path": "/zh-CN/docs/Nodes/cosmos",
+              "path": "/docs/Nodes/cosmos",
               "sidebar": "docs"
             },
             {
               "id": "Nodes/dash",
-              "path": "/zh-CN/docs/Nodes/dash",
+              "path": "/docs/Nodes/dash",
               "sidebar": "docs"
             },
             {
               "id": "Nodes/ethereum",
-              "path": "/zh-CN/docs/Nodes/ethereum",
+              "path": "/docs/Nodes/ethereum",
               "sidebar": "docs"
             },
             {
               "id": "Nodes/filecoin",
-              "path": "/zh-CN/docs/Nodes/filecoin",
+              "path": "/docs/Nodes/filecoin",
               "sidebar": "docs"
             },
             {
               "id": "Nodes/horizen",
-              "path": "/zh-CN/docs/Nodes/horizen",
+              "path": "/docs/Nodes/horizen",
               "sidebar": "docs"
             },
             {
               "id": "Nodes/matic",
-              "path": "/zh-CN/docs/Nodes/matic",
+              "path": "/docs/Nodes/matic",
               "sidebar": "docs"
             },
             {
               "id": "Nodes/mixin",
-              "path": "/zh-CN/docs/Nodes/mixin",
+              "path": "/docs/Nodes/mixin",
               "sidebar": "docs"
             },
             {
               "id": "Nodes/near",
-              "path": "/zh-CN/docs/Nodes/near",
+              "path": "/docs/Nodes/near",
               "sidebar": "docs"
             },
             {
               "id": "Nodes/nem",
-              "path": "/zh-CN/docs/Nodes/nem",
+              "path": "/docs/Nodes/nem",
               "sidebar": "docs"
             },
             {
               "id": "Nodes/polkadot",
-              "path": "/zh-CN/docs/Nodes/polkadot",
+              "path": "/docs/Nodes/polkadot",
               "sidebar": "docs"
             },
             {
               "id": "Nodes/solana",
-              "path": "/zh-CN/docs/Nodes/solana",
+              "path": "/docs/Nodes/solana",
               "sidebar": "docs"
             },
             {
               "id": "Nodes/tron",
-              "path": "/zh-CN/docs/Nodes/tron",
+              "path": "/docs/Nodes/tron",
               "sidebar": "docs"
             },
             {
               "id": "Verify",
-              "path": "/zh-CN/docs/Verify",
+              "path": "/docs/Verify",
               "sidebar": "docs"
             }
           ],
@@ -105,7 +105,7 @@
           "sidebars": {
             "docs": {
               "link": {
-                "path": "/zh-CN/docs/introduction",
+                "path": "/docs/introduction",
                 "label": "introduction"
               }
             }
