@@ -6,18 +6,18 @@ title: 支持节点
 
 目前支持的节点如下：
 
-* [Mixin Network](mixin.md)
-* [Ethereum](ethereum.md)
-* [Horizen](horizen.md)
-* [Avalanche](avalanche.md)
-* [Axie Infinity](axie.md)
-* [Solana](solana.md)
-* [NEAR Protocol](near.md)
-* [Cosmos](cosmos.md)
-* [Polkadot](polkadot.md)
-* [Tron](tron.md)
-* [Akash Network](akash.md)
-* [Polygon Network](matic.md)
+* [Mixin Network](./Nodes/mixin.md)
+* [Ethereum](./Nodes/ethereum.md)
+* [Horizen](./Nodes/horizen.md)
+* [Avalanche](./Nodes/avalanche.md)
+* [Axie Infinity](./Nodes/axie.md)
+* [Solana](./Nodes/solana.md)
+* [NEAR Protocol](./Nodes/near.md)
+* [Cosmos](./Nodes/cosmos.md)
+* [Polkadot](./Nodes/polkadot.md)
+* [Tron](./Nodes/tron.md)
+* [Akash Network](./Nodes/akash.md)
+* [Polygon Network](./Nodes/matic.md)
 
 ## Mixin Network
 
