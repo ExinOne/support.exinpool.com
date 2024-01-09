@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cd /data/exinpool/support.exinpool.com
+cd /data/exinone/support.exinpool.com
 
 changed=0
 git remote update && git status -uno | grep -q 'Your branch is behind' && changed=1
