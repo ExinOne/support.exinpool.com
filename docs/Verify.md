@@ -15,7 +15,7 @@ Based on the principle of "openness and transparency", ExinPool displays the add
 
 ## Polkadot
 
-* [1s5J32Fi8sHghGijFMK8nifLZNW5419tZdkse95QTUhmvbA](https://polkadot.subscan.io/account/1s5J32Fi8sHghGijFMK8nifLZNW5419tZdkse95QTUhmvbA)
+* [1s5J32Fi8sHghGijFMK8nifLZNW5419tZdkse95QTUhmvbA](https://polkadot.subscan.io/account/13bmM6DEQtg6v6VCrfM8qaCFjTNnGzKJuBE4xbmHFkygrfB7?tab=extrinsic)
 
 ## Avalanche
 
@@ -31,4 +31,7 @@ Based on the principle of "openness and transparency", ExinPool displays the add
 
 * [akash1s2pq37h8dcyextmpce7ut4wk9y8umrrhhug3g5](https://www.mintscan.io/akash/account/akash1s2pq37h8dcyextmpce7ut4wk9y8umrrhhug3g5)
 
+## TRX
+
+* [TRNqBWRTicaUdshmqyhHzkbWi48yf49mfX](https://tronscan.org/#/address/TRNqBWRTicaUdshmqyhHzkbWi48yf49mfX)
 
