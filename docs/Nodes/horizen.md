@@ -12,11 +12,11 @@ A: ZEN-500 is a super node and 500 ZEN is pledged to a single node in ZEN-500.
 
 > Q: How many Horizen nodes does ExinPool have at the moment?
 
-A: There are currently 33 ZEN-500 super nodes.
+A: There are currently 30 ZEN-500 super nodes.
 
 > Q: How much is the total pledge of ExinPool at present?
 
-A: 16,500 ZEN, of which 4000 ZEN are pledged by ZEN-500.
+A: 15000 ZEN, of which 4000 ZEN are pledged by ZEN-500.
 
 > Q: Is ExinPool secure?
 

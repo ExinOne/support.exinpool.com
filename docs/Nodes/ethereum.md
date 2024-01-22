@@ -12,11 +12,11 @@ A: Ethereum 2.0 stakes 32 ETH per node, and node statistics can be viewed at [St
 
 > Q: How many Ethereum 2.0 nodes does ExinPool have at the moment?
 
-A: There are currently 59 Ethereum 2.0 nodes.
+A: There are currently 51 Ethereum 2.0 nodes.
 
 > Q: How much is the total pledge of ExinPool at present?
 
-A: 1888 ETH.
+A: 1632 ETH.
 
 > Q: Is ExinPool secure?
 

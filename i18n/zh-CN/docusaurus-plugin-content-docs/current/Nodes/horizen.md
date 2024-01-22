@@ -13,11 +13,11 @@ A：ZEN-500 是超级节点，ZEN-500 单节点质押 500 ZEN。
 
 > Q：ExinPool 目前有几个 Horizen 节点？
 
-A：目前共有 33 个 ZEN-500 超级节点。
+A：目前共有 30 个 ZEN-500 超级节点。
 
 > Q：目前 ExinPool 总质押多少？
 
-A：16,500 ZEN，全部为 ZEN-500 节点。
+A：15000 ZEN，全部为 ZEN-500 节点。
 
 > Q：ExinPool 安全吗？
 

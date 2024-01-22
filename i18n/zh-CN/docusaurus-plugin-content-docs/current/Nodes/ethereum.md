@@ -13,11 +13,11 @@ A：Ethereum 2.0 每个节点质押 32ETH，节点统计信息可以在 [Staking
 
 > Q：ExinPool 目前有几个 Ethereum 2.0 节点？
 
-A：目前共有 59 个 Ethereum 2.0 节点。
+A：目前共有 51 个 Ethereum 2.0 节点。
 
 > Q：目前 ExinPool 总质押多少？
 
-A：1888 ETH。
+A：1632 ETH。
 
 > Q：ExinPool 安全吗？
 
