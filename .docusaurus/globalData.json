@@ -1,0 +1,106 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/zh-CN/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "下一个",
+          "isLast": true,
+          "path": "/zh-CN/docs",
+          "mainDocId": "introduction",
+          "docs": [
+            {
+              "id": "introduction",
+              "path": "/zh-CN/docs/introduction",
+              "sidebar": "docs"
+            },
+            {
+              "id": "nodes",
+              "path": "/zh-CN/docs/nodes",
+              "sidebar": "docs"
+            },
+            {
+              "id": "Nodes/akash",
+              "path": "/zh-CN/docs/Nodes/akash"
+            },
+            {
+              "id": "Nodes/avalanche",
+              "path": "/zh-CN/docs/Nodes/avalanche"
+            },
+            {
+              "id": "Nodes/axie",
+              "path": "/zh-CN/docs/Nodes/axie",
+              "sidebar": "docs"
+            },
+            {
+              "id": "Nodes/cosmos",
+              "path": "/zh-CN/docs/Nodes/cosmos"
+            },
+            {
+              "id": "Nodes/ethereum",
+              "path": "/zh-CN/docs/Nodes/ethereum",
+              "sidebar": "docs"
+            },
+            {
+              "id": "Nodes/horizen",
+              "path": "/zh-CN/docs/Nodes/horizen"
+            },
+            {
+              "id": "Nodes/matic",
+              "path": "/zh-CN/docs/Nodes/matic"
+            },
+            {
+              "id": "Nodes/mixin",
+              "path": "/zh-CN/docs/Nodes/mixin",
+              "sidebar": "docs"
+            },
+            {
+              "id": "Nodes/near",
+              "path": "/zh-CN/docs/Nodes/near"
+            },
+            {
+              "id": "Nodes/polkadot",
+              "path": "/zh-CN/docs/Nodes/polkadot",
+              "sidebar": "docs"
+            },
+            {
+              "id": "Nodes/solana",
+              "path": "/zh-CN/docs/Nodes/solana",
+              "sidebar": "docs"
+            },
+            {
+              "id": "Nodes/tron",
+              "path": "/zh-CN/docs/Nodes/tron"
+            },
+            {
+              "id": "ReservesPlan",
+              "path": "/zh-CN/docs/ReservesPlan",
+              "sidebar": "docs"
+            },
+            {
+              "id": "rewards",
+              "path": "/zh-CN/docs/rewards",
+              "sidebar": "docs"
+            },
+            {
+              "id": "Verify",
+              "path": "/zh-CN/docs/Verify",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/zh-CN/docs/introduction",
+                "label": "introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

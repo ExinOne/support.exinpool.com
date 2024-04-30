@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Instructions/DelayedRelease",
+  "id": "Instructions/DelayedRelease",
+  "title": "Why is there a delay in releasing tokens",
+  "description": "When you receive a delayed coin release alert and accept it, your transaction will be closed in real time, but you will receive your assets later, which may be between a few minutes and a few hours, depending on the speed of the on-chain transfer.",
+  "source": "@site/docs/Instructions/DelayedRelease.md",
+  "sourceDirName": "Instructions",
+  "slug": "/Instructions/DelayedRelease",
+  "permalink": "/docs/Instructions/DelayedRelease",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Why is there a delay in releasing tokens"
+  }
+}

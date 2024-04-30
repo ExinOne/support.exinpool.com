@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Nodes/near",
+  "id": "Nodes/near",
+  "title": "NEAR Protocol",
+  "description": "Q: How many NEAR Protocol nodes does ExinPool have at the moment?",
+  "source": "@site/docs/Nodes/near.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/near",
+  "permalink": "/docs/Nodes/near",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "NEAR Protocol"
+  }
+}

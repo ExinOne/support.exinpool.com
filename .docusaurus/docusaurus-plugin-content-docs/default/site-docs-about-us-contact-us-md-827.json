@@ -1,0 +1,16 @@
+{
+  "unversionedId": "About-Us/Contact-us",
+  "id": "About-Us/Contact-us",
+  "title": "Contact Us",
+  "description": "- ExinPool robot itself is a customer service system. If you have any questions, you can leave a message directly to ExinPool robot, and you can send relevant screenshots/screen recordings. We will reply to you as soon as we receive the message;",
+  "source": "@site/docs/About-Us/Contact-us.md",
+  "sourceDirName": "About-Us",
+  "slug": "/About-Us/Contact-us",
+  "permalink": "/docs/About-Us/Contact-us",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Contact Us"
+  }
+}

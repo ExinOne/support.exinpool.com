@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Nodes/cosmos",
+  "id": "Nodes/cosmos",
+  "title": "Cosmos",
+  "description": "Q：ExinPool 目前有几个 Cosmos 节点？",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/cosmos.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/cosmos",
+  "permalink": "/zh-CN/docs/Nodes/cosmos",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Cosmos"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Nodes/near",
+  "id": "Nodes/near",
+  "title": "NEAR Protocol",
+  "description": "Q：ExinPool 目前有几个 NEAR Protocol 节点？",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/near.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/near",
+  "permalink": "/zh-CN/docs/Nodes/near",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "NEAR Protocol"
+  }
+}

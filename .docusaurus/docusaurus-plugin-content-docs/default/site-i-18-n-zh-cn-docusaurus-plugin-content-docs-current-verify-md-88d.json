@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Verify",
+  "id": "Verify",
+  "title": "验证",
+  "description": "ExinPool 本着「公开透明」的原则，在本页面展示节点 Staking 的地址。Don't Trust, Verify.",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Verify.md",
+  "sourceDirName": ".",
+  "slug": "/Verify",
+  "permalink": "/zh-CN/docs/Verify",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "验证"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "ExinPool 简介",
+    "permalink": "/zh-CN/docs/introduction"
+  },
+  "next": {
+    "title": "节点收益发放周期",
+    "permalink": "/zh-CN/docs/rewards"
+  }
+}

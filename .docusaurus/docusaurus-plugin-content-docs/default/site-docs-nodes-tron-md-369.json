@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Nodes/tron",
+  "id": "Nodes/tron",
+  "title": "Tron",
+  "description": "Q: How many Tron nodes does ExinPool have at the moment?",
+  "source": "@site/docs/Nodes/tron.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/tron",
+  "permalink": "/docs/Nodes/tron",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Tron"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Verify",
+  "id": "Verify",
+  "title": "Verify",
+  "description": "Based on the principle of \"openness and transparency\", ExinPool displays the address of node staking on this page (only on-chain). Don't Trust, Verify.",
+  "source": "@site/docs/Verify.md",
+  "sourceDirName": ".",
+  "slug": "/Verify",
+  "permalink": "/docs/Verify",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Verify"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/introduction"
+  },
+  "next": {
+    "title": "Staking Rewards Distribution Schedule",
+    "permalink": "/docs/rewards"
+  }
+}

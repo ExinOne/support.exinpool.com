@@ -1,0 +1,21 @@
+{
+  "unversionedId": "Nodes/solana",
+  "id": "Nodes/solana",
+  "title": "Solana",
+  "description": "Q：ExinPool 目前有几个 Solana 节点？",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/solana.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/solana",
+  "permalink": "/zh-CN/docs/Nodes/solana",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Solana"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Polkadot",
+    "permalink": "/zh-CN/docs/Nodes/polkadot"
+  }
+}

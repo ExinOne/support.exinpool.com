@@ -1,0 +1,25 @@
+{
+  "unversionedId": "rewards",
+  "id": "rewards",
+  "title": "节点收益发放周期",
+  "description": "感谢您选择 ExinPool！ExinPool 目前运营着 XIN、ETH（ETH-Restaking）、DOT、SOL 和AXS 节点。为保证透明度，我们承诺所有节点资产均质押在链上，您可通过 此链接 验证相关信息。",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/rewards.md",
+  "sourceDirName": ".",
+  "slug": "/rewards",
+  "permalink": "/zh-CN/docs/rewards",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "节点收益发放周期"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "验证",
+    "permalink": "/zh-CN/docs/Verify"
+  },
+  "next": {
+    "title": "备付金计划",
+    "permalink": "/zh-CN/docs/ReservesPlan"
+  }
+}

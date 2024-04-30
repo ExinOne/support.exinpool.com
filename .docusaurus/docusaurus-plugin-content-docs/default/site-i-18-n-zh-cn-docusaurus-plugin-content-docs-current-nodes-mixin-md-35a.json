@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Nodes/mixin",
+  "id": "Nodes/mixin",
+  "title": "Mixin Network",
+  "description": "Q：ExinPool 目前有几个 Mixin 节点？",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/mixin.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/mixin",
+  "permalink": "/zh-CN/docs/Nodes/mixin",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Mixin Network"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Ethereum",
+    "permalink": "/zh-CN/docs/Nodes/ethereum"
+  },
+  "next": {
+    "title": "Polkadot",
+    "permalink": "/zh-CN/docs/Nodes/polkadot"
+  }
+}

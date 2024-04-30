@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Instructions/Fiat",
+  "id": "Instructions/Fiat",
+  "title": "How to buy?",
+  "description": "ExinOne => Trade => Fiat",
+  "source": "@site/docs/Instructions/Fiat.md",
+  "sourceDirName": "Instructions",
+  "slug": "/Instructions/Fiat",
+  "permalink": "/docs/Instructions/Fiat",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "How to buy?"
+  }
+}

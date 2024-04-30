@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Features/MultisigAcct",
+  "id": "Features/MultisigAcct",
+  "title": "Multisig Account",
+  "description": "What is Multisig Account?",
+  "source": "@site/docs/Features/MultisigAcct.md",
+  "sourceDirName": "Features",
+  "slug": "/Features/MultisigAcct",
+  "permalink": "/docs/Features/MultisigAcct",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Multisig Account"
+  }
+}

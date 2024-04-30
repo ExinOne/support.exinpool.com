@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Nodes/horizen",
+  "id": "Nodes/horizen",
+  "title": "Horizen",
+  "description": "Q: What types of ZEN nodes does ExinPool currently support?",
+  "source": "@site/docs/Nodes/horizen.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/horizen",
+  "permalink": "/docs/Nodes/horizen",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Horizen"
+  }
+}

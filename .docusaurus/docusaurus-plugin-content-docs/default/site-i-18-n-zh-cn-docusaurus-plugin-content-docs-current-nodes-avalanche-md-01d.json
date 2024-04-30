@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Nodes/avalanche",
+  "id": "Nodes/avalanche",
+  "title": "Avalanche",
+  "description": "Q：ExinPool 目前有几个 Avalanche 节点？",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/avalanche.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/avalanche",
+  "permalink": "/zh-CN/docs/Nodes/avalanche",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Avalanche"
+  }
+}

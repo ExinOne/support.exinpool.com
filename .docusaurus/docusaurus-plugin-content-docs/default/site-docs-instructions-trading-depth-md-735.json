@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Instructions/TradingDepth",
+  "id": "Instructions/TradingDepth",
+  "title": "What is Trading Depth?",
+  "description": "\"Trading depth\" is a financial term that is often used to describe the liquidity of a market. It can be measured by the number and size of buy and sell orders. The higher the trading depth, the better the market's liquidity, meaning it's easier to buy or sell large quantities of security without affecting its price.",
+  "source": "@site/docs/Instructions/TradingDepth.md",
+  "sourceDirName": "Instructions",
+  "slug": "/Instructions/TradingDepth",
+  "permalink": "/docs/Instructions/TradingDepth",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "What is Trading Depth?"
+  }
+}

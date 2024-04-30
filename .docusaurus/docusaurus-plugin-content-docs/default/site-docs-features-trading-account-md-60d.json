@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Features/TradingAccount",
+  "id": "Features/TradingAccount",
+  "title": "Trading Account",
+  "description": "The Trading Acct. is an account provided by ExinOne to its users, where they can deposit tokens to gain certain benefits. At the same time, a liquidity pool is a trading account that provides users with services for trading tokens listed on major exchanges.",
+  "source": "@site/docs/Features/TradingAccount.md",
+  "sourceDirName": "Features",
+  "slug": "/Features/TradingAccount",
+  "permalink": "/docs/Features/TradingAccount",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Trading Account"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "How to Invest",
+    "permalink": "/docs/Instructions/AutoInvest"
+  },
+  "next": {
+    "title": "Savings",
+    "permalink": "/docs/Features/Savings"
+  }
+}

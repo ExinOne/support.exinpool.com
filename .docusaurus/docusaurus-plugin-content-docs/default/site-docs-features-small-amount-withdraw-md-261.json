@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Features/SmallAmountWithdraw",
+  "id": "Features/SmallAmountWithdraw",
+  "title": "Small Amount Withdraw",
+  "description": "ExinOne has now launched the \"Small amount withdrawals\" service, which is designed to help you save some costs when withdrawing tokens from the chain, and currently supports the following tokens:",
+  "source": "@site/docs/Features/SmallAmountWithdraw.md",
+  "sourceDirName": "Features",
+  "slug": "/Features/SmallAmountWithdraw",
+  "permalink": "/docs/Features/SmallAmountWithdraw",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Small Amount Withdraw"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Auto Invest",
+    "permalink": "/docs/Features/AutoInvest"
+  },
+  "next": {
+    "title": "Contact Us",
+    "permalink": "/docs/About-Us/Contact-us"
+  }
+}

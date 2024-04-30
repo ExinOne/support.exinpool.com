@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Nodes/akash",
+  "id": "Nodes/akash",
+  "title": "Akash",
+  "description": "Q：ExinPool 目前有几个 Akash 节点？",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/akash.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/akash",
+  "permalink": "/zh-CN/docs/Nodes/akash",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Akash"
+  }
+}

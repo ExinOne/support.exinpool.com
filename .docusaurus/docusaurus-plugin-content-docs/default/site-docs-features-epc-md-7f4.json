@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Features/EPC",
+  "id": "Features/EPC",
+  "title": "Introduction to EPC",
+  "description": "What is EPC?",
+  "source": "@site/docs/Features/EPC.md",
+  "sourceDirName": "Features",
+  "slug": "/Features/EPC",
+  "permalink": "/docs/Features/EPC",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Introduction to EPC"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Affiliate Commission",
+    "permalink": "/docs/Features/Affiliate"
+  },
+  "next": {
+    "title": "Loans",
+    "permalink": "/docs/Features/Loans"
+  }
+}

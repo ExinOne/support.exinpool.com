@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Nodes/axie",
+  "id": "Nodes/axie",
+  "title": "Axie Infinity",
+  "description": "Q：ExinPool 目前有几个 Axie Infinity 节点？",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/axie.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/axie",
+  "permalink": "/zh-CN/docs/Nodes/axie",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Axie Infinity"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "支持节点",
+    "permalink": "/zh-CN/docs/nodes"
+  },
+  "next": {
+    "title": "Ethereum",
+    "permalink": "/zh-CN/docs/Nodes/ethereum"
+  }
+}

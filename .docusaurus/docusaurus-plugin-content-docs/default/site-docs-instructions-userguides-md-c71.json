@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Instructions/Userguides",
+  "id": "Instructions/Userguides",
+  "title": "New User's Guide",
+  "description": "Are you new to Mixin and ExinOne and still have no idea about this product at all?",
+  "source": "@site/docs/Instructions/Userguides.md",
+  "sourceDirName": "Instructions",
+  "slug": "/Instructions/Userguides",
+  "permalink": "/docs/Instructions/Userguides",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "New User's Guide"
+  }
+}

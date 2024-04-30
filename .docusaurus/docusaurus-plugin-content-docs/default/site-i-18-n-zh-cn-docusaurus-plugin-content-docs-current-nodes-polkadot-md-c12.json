@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Nodes/polkadot",
+  "id": "Nodes/polkadot",
+  "title": "Polkadot",
+  "description": "Q：ExinPool 目前有几个 Polkadot 节点？",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/polkadot.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/polkadot",
+  "permalink": "/zh-CN/docs/Nodes/polkadot",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Polkadot"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Mixin Network",
+    "permalink": "/zh-CN/docs/Nodes/mixin"
+  },
+  "next": {
+    "title": "Solana",
+    "permalink": "/zh-CN/docs/Nodes/solana"
+  }
+}

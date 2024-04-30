@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Nodes/nem",
+  "id": "Nodes/nem",
+  "title": "Nem",
+  "description": "Q: How many Nem nodes does ExinPool have at the moment?",
+  "source": "@site/docs/Nodes/nem.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/nem",
+  "permalink": "/docs/Nodes/nem",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Nem"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "NEAR Protocol",
+    "permalink": "/docs/Nodes/near"
+  },
+  "next": {
+    "title": "Polkadot",
+    "permalink": "/docs/Nodes/polkadot"
+  }
+}

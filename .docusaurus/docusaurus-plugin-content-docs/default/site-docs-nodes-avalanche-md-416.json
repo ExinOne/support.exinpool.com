@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Nodes/avalanche",
+  "id": "Nodes/avalanche",
+  "title": "Avalanche",
+  "description": "Q: How many Avalanche nodes does ExinPool have at the moment?",
+  "source": "@site/docs/Nodes/avalanche.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/avalanche",
+  "permalink": "/docs/Nodes/avalanche",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Avalanche"
+  }
+}

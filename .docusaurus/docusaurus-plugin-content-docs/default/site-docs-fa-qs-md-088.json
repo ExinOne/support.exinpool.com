@@ -1,0 +1,25 @@
+{
+  "unversionedId": "FAQs",
+  "id": "FAQs",
+  "title": "FAQs",
+  "description": "About Mixin",
+  "source": "@site/docs/FAQs.md",
+  "sourceDirName": ".",
+  "slug": "/FAQs",
+  "permalink": "/docs/FAQs",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "FAQs"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/introduction"
+  },
+  "next": {
+    "title": "Support Nodes",
+    "permalink": "/docs/nodes"
+  }
+}

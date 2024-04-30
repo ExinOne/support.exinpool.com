@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ReservesPlan",
+  "id": "ReservesPlan",
+  "title": "备付金计划",
+  "description": "在数字资产的世界中，时间就是金钱。我们深知，在质押过程中等待加入或退出节点的时间可能会让您错失宝贵的机会。因此，为了极大地提升您的质押体验，ExinPool 针对 SOL 和 DOT 特别推出了【备付金计划】。",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/ReservesPlan.md",
+  "sourceDirName": ".",
+  "slug": "/ReservesPlan",
+  "permalink": "/zh-CN/docs/ReservesPlan",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "备付金计划"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "节点收益发放周期",
+    "permalink": "/zh-CN/docs/rewards"
+  },
+  "next": {
+    "title": "支持节点",
+    "permalink": "/zh-CN/docs/nodes"
+  }
+}

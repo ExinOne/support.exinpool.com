@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Nodes/matic",
+  "id": "Nodes/matic",
+  "title": "Matic",
+  "description": "Q: How many Matic nodes does ExinPool have at the moment?",
+  "source": "@site/docs/Nodes/matic.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/matic",
+  "permalink": "/docs/Nodes/matic",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Matic"
+  }
+}

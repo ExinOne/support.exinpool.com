@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Nodes/ethereum",
+  "id": "Nodes/ethereum",
+  "title": "Ethereum",
+  "description": "Q：ExinPool 目前支持哪种 Ethereum 节点？",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/ethereum.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/ethereum",
+  "permalink": "/zh-CN/docs/Nodes/ethereum",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Ethereum"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Axie Infinity",
+    "permalink": "/zh-CN/docs/Nodes/axie"
+  },
+  "next": {
+    "title": "Mixin Network",
+    "permalink": "/zh-CN/docs/Nodes/mixin"
+  }
+}

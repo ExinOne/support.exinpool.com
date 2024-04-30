@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Nodes/tron",
+  "id": "Nodes/tron",
+  "title": "Tron",
+  "description": "Q：ExinPool 目前有几个 Tron 节点？",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/tron.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/tron",
+  "permalink": "/zh-CN/docs/Nodes/tron",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Tron"
+  }
+}

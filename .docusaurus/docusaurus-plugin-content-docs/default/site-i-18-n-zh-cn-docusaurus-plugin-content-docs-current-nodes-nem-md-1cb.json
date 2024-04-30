@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Nodes/nem",
+  "id": "Nodes/nem",
+  "title": "Nem",
+  "description": "Q：ExinPool 目前有几个 Nem 节点？",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/nem.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/nem",
+  "permalink": "/zh-CN/docs/Nodes/nem",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Nem"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "NEAR Protocol",
+    "permalink": "/zh-CN/docs/Nodes/near"
+  },
+  "next": {
+    "title": "Polkadot",
+    "permalink": "/zh-CN/docs/Nodes/polkadot"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Features/Loans",
+  "id": "Features/Loans",
+  "title": "Loans",
+  "description": "ExinOne offers a pledge lending service, where you pledge your assets to ExinOne to obtain a pledge limit, and then you can lend out assets according to that limit.",
+  "source": "@site/docs/Features/Loans.md",
+  "sourceDirName": "Features",
+  "slug": "/Features/Loans",
+  "permalink": "/docs/Features/Loans",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Loans"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Introduction to EPC",
+    "permalink": "/docs/Features/EPC"
+  },
+  "next": {
+    "title": "One Click to Light Up Icons",
+    "permalink": "/docs/Features/One-Click-to-Light-Up-Icons"
+  }
+}

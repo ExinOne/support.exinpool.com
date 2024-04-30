@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Nodes/akash",
+  "id": "Nodes/akash",
+  "title": "Akash",
+  "description": "Q: How many Akash nodes does ExinPool have at the moment?",
+  "source": "@site/docs/Nodes/akash.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/akash",
+  "permalink": "/docs/Nodes/akash",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Akash"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Nodes/horizen",
+  "id": "Nodes/horizen",
+  "title": "Horizen",
+  "description": "Q：ExinPool 目前支持哪些类型的 ZEN 节点？",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/Nodes/horizen.md",
+  "sourceDirName": "Nodes",
+  "slug": "/Nodes/horizen",
+  "permalink": "/zh-CN/docs/Nodes/horizen",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Horizen"
+  }
+}

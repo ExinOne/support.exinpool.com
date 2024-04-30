@@ -1,0 +1,178 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "下一个",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "docs": [
+      {
+        "type": "link",
+        "label": "ExinPool 简介",
+        "href": "/zh-CN/docs/introduction",
+        "docId": "introduction"
+      },
+      {
+        "type": "link",
+        "label": "验证",
+        "href": "/zh-CN/docs/Verify",
+        "docId": "Verify"
+      },
+      {
+        "type": "link",
+        "label": "节点收益发放周期",
+        "href": "/zh-CN/docs/rewards",
+        "docId": "rewards"
+      },
+      {
+        "type": "link",
+        "label": "备付金计划",
+        "href": "/zh-CN/docs/ReservesPlan",
+        "docId": "ReservesPlan"
+      },
+      {
+        "type": "link",
+        "label": "支持节点",
+        "href": "/zh-CN/docs/nodes",
+        "docId": "nodes"
+      },
+      {
+        "type": "category",
+        "label": "Nodes",
+        "collapsed": false,
+        "items": [
+          {
+            "type": "link",
+            "label": "Axie Infinity",
+            "href": "/zh-CN/docs/Nodes/axie",
+            "docId": "Nodes/axie"
+          },
+          {
+            "type": "link",
+            "label": "Ethereum",
+            "href": "/zh-CN/docs/Nodes/ethereum",
+            "docId": "Nodes/ethereum"
+          },
+          {
+            "type": "link",
+            "label": "Mixin Network",
+            "href": "/zh-CN/docs/Nodes/mixin",
+            "docId": "Nodes/mixin"
+          },
+          {
+            "type": "link",
+            "label": "Polkadot",
+            "href": "/zh-CN/docs/Nodes/polkadot",
+            "docId": "Nodes/polkadot"
+          },
+          {
+            "type": "link",
+            "label": "Solana",
+            "href": "/zh-CN/docs/Nodes/solana",
+            "docId": "Nodes/solana"
+          }
+        ],
+        "collapsible": true
+      }
+    ]
+  },
+  "docs": {
+    "introduction": {
+      "id": "introduction",
+      "title": "ExinPool 简介",
+      "description": "ExinPool",
+      "sidebar": "docs"
+    },
+    "nodes": {
+      "id": "nodes",
+      "title": "支持节点",
+      "description": "目前支持的节点如下：",
+      "sidebar": "docs"
+    },
+    "Nodes/akash": {
+      "id": "Nodes/akash",
+      "title": "Akash",
+      "description": "Q：ExinPool 目前有几个 Akash 节点？"
+    },
+    "Nodes/avalanche": {
+      "id": "Nodes/avalanche",
+      "title": "Avalanche",
+      "description": "Q：ExinPool 目前有几个 Avalanche 节点？"
+    },
+    "Nodes/axie": {
+      "id": "Nodes/axie",
+      "title": "Axie Infinity",
+      "description": "Q：ExinPool 目前有几个 Axie Infinity 节点？",
+      "sidebar": "docs"
+    },
+    "Nodes/cosmos": {
+      "id": "Nodes/cosmos",
+      "title": "Cosmos",
+      "description": "Q：ExinPool 目前有几个 Cosmos 节点？"
+    },
+    "Nodes/ethereum": {
+      "id": "Nodes/ethereum",
+      "title": "Ethereum",
+      "description": "Q：ExinPool 目前支持哪种 Ethereum 节点？",
+      "sidebar": "docs"
+    },
+    "Nodes/horizen": {
+      "id": "Nodes/horizen",
+      "title": "Horizen",
+      "description": "Q：ExinPool 目前支持哪些类型的 ZEN 节点？"
+    },
+    "Nodes/matic": {
+      "id": "Nodes/matic",
+      "title": "Matic",
+      "description": "Q：ExinPool 目前有几个 Matic 节点？"
+    },
+    "Nodes/mixin": {
+      "id": "Nodes/mixin",
+      "title": "Mixin Network",
+      "description": "Q：ExinPool 目前有几个 Mixin 节点？",
+      "sidebar": "docs"
+    },
+    "Nodes/near": {
+      "id": "Nodes/near",
+      "title": "NEAR Protocol",
+      "description": "Q：ExinPool 目前有几个 NEAR Protocol 节点？"
+    },
+    "Nodes/polkadot": {
+      "id": "Nodes/polkadot",
+      "title": "Polkadot",
+      "description": "Q：ExinPool 目前有几个 Polkadot 节点？",
+      "sidebar": "docs"
+    },
+    "Nodes/solana": {
+      "id": "Nodes/solana",
+      "title": "Solana",
+      "description": "Q：ExinPool 目前有几个 Solana 节点？",
+      "sidebar": "docs"
+    },
+    "Nodes/tron": {
+      "id": "Nodes/tron",
+      "title": "Tron",
+      "description": "Q：ExinPool 目前有几个 Tron 节点？"
+    },
+    "ReservesPlan": {
+      "id": "ReservesPlan",
+      "title": "备付金计划",
+      "description": "在数字资产的世界中，时间就是金钱。我们深知，在质押过程中等待加入或退出节点的时间可能会让您错失宝贵的机会。因此，为了极大地提升您的质押体验，ExinPool 针对 SOL 和 DOT 特别推出了【备付金计划】。",
+      "sidebar": "docs"
+    },
+    "rewards": {
+      "id": "rewards",
+      "title": "节点收益发放周期",
+      "description": "感谢您选择 ExinPool！ExinPool 目前运营着 XIN、ETH（ETH-Restaking）、DOT、SOL 和AXS 节点。为保证透明度，我们承诺所有节点资产均质押在链上，您可通过 此链接 验证相关信息。",
+      "sidebar": "docs"
+    },
+    "Verify": {
+      "id": "Verify",
+      "title": "验证",
+      "description": "ExinPool 本着「公开透明」的原则，在本页面展示节点 Staking 的地址。Don't Trust, Verify.",
+      "sidebar": "docs"
+    }
+  }
+}
